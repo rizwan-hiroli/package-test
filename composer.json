@@ -23,7 +23,7 @@
         "laravel": {
             "providers": [
                 "hiriz\\import\\ImportServiceProvider"
-            ],
+            ]
         }
-    },
+    }
 }
