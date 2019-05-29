@@ -1,0 +1,22 @@
+{
+    "name": "hiriz/import",
+    "description": "this is a package to import csv to database",
+    "type": "library",
+    "require": {
+        "maatwebsite": "2.1.0",
+        "maatwebsite/excel": "\"~2.1.0\""
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rizwan Hiroli",
+            "email": "rizwanhiroli@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "hiriz\\import\\": "src/"
+        }
+    },
+}
