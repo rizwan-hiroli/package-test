@@ -19,4 +19,11 @@
             "hiriz\\import\\": "src/"
         }
     },
+    "extra": {
+    "laravel": {
+        "providers": [
+            "hiriz\\import\\ImportServiceProvider"
+        ]
+    }
+},
 }
